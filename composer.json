@@ -1,12 +1,13 @@
 {
-    "name": "powelljmp/php-package-boiler",
-    "description": "package boiler",
-    "authors": [
-        {
-            "name": "James Powell",
-            "email": "powell.jmp@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+	"autoload" : {
+		"psr-4" : {
+			"powelljmp\\PhpPackageBoiler\\" : "src"
+		}
+	},
+	"name" : "poweljmp/php-package-boiler",
+	"require" : {
+		"php" : ">=5.3.0"
+	},
+	"minimum-stability" : "dev",
+	"description" : "Init boiler"
 }

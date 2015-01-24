@@ -1,6 +1,6 @@
 <?php
 
-namespace Introduction;
+namespace powelljmp\PhpPackageBoiler;
 
 class Hello
 {
