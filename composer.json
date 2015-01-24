@@ -1,0 +1,12 @@
+{
+    "name": "powelljmp/php-package-boiler",
+    "description": "package boiler",
+    "authors": [
+        {
+            "name": "James Powell",
+            "email": "powell.jmp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
